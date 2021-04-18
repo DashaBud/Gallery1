@@ -1,0 +1,19 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+.test1 {
+	background-color: violet;
+	margin: auto;
+	padding: 50px
+}
+.test2 {
+	background-color: aqua;
+	margin: 30px;
+}
+
+p {
+	background-color: pink;
+}
